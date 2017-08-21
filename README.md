@@ -14,4 +14,4 @@ Turns out this one is really, really poor (Score 0.6675998)
 Random_Solution_v3.ipynb is the simplest "solution". It sets all the predictions to the current mean of logerror in the training set.
 Score is 0.0651279.
 
-Random_Solution_v4.ipynb is a combination of Random_Solution_v3.ipynb with the specific feature "pull" of Random_Solution_v2.ipynb.
+Random_Solution_v4.ipynb is a combination of Random_Solution_v3.ipynb with the specific feature "pull" of Random_Solution_v2.ipynb. Score 0.0652980.
