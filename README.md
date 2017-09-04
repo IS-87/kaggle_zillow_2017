@@ -15,3 +15,5 @@ Random_Solution_v3.ipynb is the simplest "solution". It sets all the predictions
 Score is 0.0651279.
 
 Random_Solution_v4.ipynb is a combination of Random_Solution_v3.ipynb with the specific feature "pull" of Random_Solution_v2.ipynb. Score 0.0652980.
+
+Random_Solution_v6.ipynb attempts to fix Random_Solution_v2.ipynb. The score of 0.6675998 didn't make sense. Where duplicate sales were made during the year, only first record was kept. Score is 0.0651220.
