@@ -21,3 +21,5 @@ Random_Solution_v6.ipynb attempts to fix Random_Solution_v2.ipynb. The score of 
 Random_Solution_v7.ipynb attempts to fix Random_Solution_v2.ipynb. The score of 0.6675998 didn't make sense. Where duplicate sales were made during the year, only last record was kept. Score is 0.0651226.
 
 Random_Solution_v5.ipynb - score 0.0650775.
+
+Random_Solution_v8.ipynb - score 0.0650755.
